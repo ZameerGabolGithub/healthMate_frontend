@@ -1,0 +1,38 @@
+{
+  "vitals": {
+    "title": "Add Vitals",
+    "date": "Date",
+    "bloodPressureSystolic": "Blood Pressure - Systolic",
+    "bloodPressureDiastolic": "Blood Pressure - Diastolic",
+    "bloodSugar": "Blood Sugar",
+    "sugarType": "Sugar Type",
+    "weight": "Weight (kg)",
+    "temperature": "Temperature (°F)",
+    "heartRate": "Heart Rate (bpm)",
+    "notes": "Notes",
+    "save": "Save Vitals",
+    "success": "Vitals added successfully!",
+    "error": "Failed to add vitals"
+  },
+  "ai": {
+    "analysis": "AI Analysis",
+    "summary": "Summary",
+    "abnormalValues": "Abnormal Values",
+    "questionsForDoctor": "Questions for Doctor",
+    "dietaryRecommendations": "Dietary Recommendations",
+    "disclaimer": "This AI analysis is for informational purposes only. Please consult with a qualified healthcare professional for proper diagnosis and treatment."
+  },
+  "common": {
+    "english": "English",
+    "urdu": "اردو",
+    "loading": "Loading...",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "upload": "Upload",
+    "vitals": "Vitals",
+    "timeline": "Timeline",
+    "logout": "Logout"
+  }
+}

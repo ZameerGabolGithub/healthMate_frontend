@@ -1,0 +1,38 @@
+{
+  "vitals": {
+    "title": "حیاتی اعداد شامل کریں",
+    "date": "تاریخ",
+    "bloodPressureSystolic": "خون کا دباؤ - سِسٹولِک",
+    "bloodPressureDiastolic": "خون کا دباؤ - ڈائیسٹولِک",
+    "bloodSugar": "خون میں شوگر",
+    "sugarType": "شوگر کی قسم",
+    "weight": "وزن (کلوگرام)",
+    "temperature": "درجۂ حرارت (°F)",
+    "heartRate": "دل کی دھڑکن (bpm)",
+    "notes": "نوٹس",
+    "save": "محفوظ کریں",
+    "success": "حیاتی اعداد کامیابی سے شامل کیے گئے!",
+    "error": "حیاتی اعداد شامل کرنے میں خرابی"
+  },
+  "ai": {
+    "analysis": "مصنوعی ذہانت کا تجزیہ",
+    "summary": "خلاصہ",
+    "abnormalValues": "غیر معمولی اقدار",
+    "questionsForDoctor": "ڈاکٹر کے لیے سوالات",
+    "dietaryRecommendations": "غذائی سفارشات",
+    "disclaimer": "یہ AI تجزیہ معلوماتی مقاصد کے لیے ہے۔ مناسب تشخیص اور علاج کے لیے براہِ کرم ماہر صحت سے مشورہ کریں۔"
+  },
+  "common": {
+    "english": "انگریزی",
+    "urdu": "اردو",
+    "loading": "لوڈ ہو رہا ہے...",
+    "fullName": "پورا نام",
+    "email": "ای میل",
+    "password": "پاس ورڈ"
+    ,"dashboard":"ڈیش بورڈ",
+    "upload":"اپ لوڈ",
+    "vitals":"حیاتی اعداد",
+    "timeline":"ٹائم لائن",
+    "logout":"لاگ آؤٹ"
+  }
+}
